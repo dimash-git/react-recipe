@@ -1,4 +1,4 @@
-Demo [link to the app](https://dimash-git.github.io/react-recipe/)
+Demo: [link to the app](https://dimash-git.github.io/react-recipe/)
 
 This app allows for users to find recipes for specific dishes.
 
