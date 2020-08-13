@@ -1,0 +1,27 @@
+.recipe {
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: white;
+  border-radius: 10px;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe h1 {
+  padding-top: 1rem;
+}
+
+.recipe ol li {
+  list-style: none;
+}
+
+.recipe img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: auto;
+  padding: 1.5rem 0;
+}
